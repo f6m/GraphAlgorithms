@@ -127,9 +127,6 @@ class Graph:
 #dllist.push(62)
 #dllist.listprint(dllist.head)
 
- 
-# This code is contributed by Kanav Malhotra
-
 
 class creuler: 
    def __init__(self,vertices,aristas):
